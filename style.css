@@ -1,0 +1,15 @@
+*{
+    text-align:center;
+    list-style-position: inside;
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(240, 224, 226);
+}
+
+h1,h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    height:auto;
+    width:500px;
+}
